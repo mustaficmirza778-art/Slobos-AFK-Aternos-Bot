@@ -2,14 +2,14 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "",
+    "password": "afkbot925",
     "type": "offline"
   },
   "server": {
     "ip": "BalkanMineSMP.aternos.me
 ",
     "port": 64261,
-    "version": "1.21.11",
+    "version": "26.1.1",
     "try-creative": false
   },
   "position": {
